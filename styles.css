@@ -2,4 +2,13 @@ html{
     font-family: sans-serif;
     font-size: 10px;
   }
-  
+
+  p{
+    /*spacing setup*/
+   width: 200px;
+   height: 200px;
+   margin: 170px auto;  
+   padding: 4px;
+   line-height: 2.5em;
+   text-align: center;
+  }
